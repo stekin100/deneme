@@ -1,0 +1,1 @@
+print("yazdır gelsin")
